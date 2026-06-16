@@ -1,5 +1,3 @@
-# 🚀 INSTANT GRATIFICATION!
-
 ## Deploy a FastAPI Application to Production in Under 10 Minutes
 
 This guide walks you through creating and deploying a simple FastAPI application to Vercel. By the end, you'll have a live API accessible from anywhere in the world.
