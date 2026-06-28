@@ -1,0 +1,51 @@
+Workshop : 28th  June @ 10:00 AM
+Link: zoom.us/j/86743570193
+live you tube link : https://www.youtube.com/watch?v=TfTDtUse4hU
+----
+Fullstack generative ai saas bootcamp 
+build , deploy, scale production ready Ai application using Cursor, Gemini, Fastapi & Vercel
+----
+GITHUB -- https://github.com/kodigitaccount/Deployment
+Agentic AI playlist -- https://www.youtube.com/playlist?list=PLVlQHNRLflP8Pt3wVlRWRaXZXi79cIwSq
+----
+
+SaaS stands for Software as a Service.
+
+It is a way of delivering software over the internet instead of installing it on your computer. 
+You usually pay a monthly or yearly subscription and access the software through a web browser.
+
+Examples of SaaS --> Google Workspace | Microsoft 365 | Salesforce | Zoom | Dropbox 
+
+Instead of:  Buying software once Installing it on your device Managing updates yourself with SaaS:
+
+The software is hosted by the provider | You access it online 
+
+Think of Netflix for software: You don't own the movie files & You pay a subscription and use the service online.
+
+SaaS works similarly for business software.
+✅ Access from anywhere
+✅ No installation needed
+✅ Automatic updates
+✅ Lower upfront cost
+✅ Easy to scale as your business grows 
+
+======= 
+1- what is saas
+2- what technology we used today to build a end to end saas application 
+3- saas architecture how it works & i will share my git link to you work with me 
+
+1- google --- download & install cursor ide in your system window or mac or linux)
+2- google -- vercel -- 
+====
+
+pip install -r requirments.txt
+uvicorn code:app --reload ( if this code not works) | python -m uvicorn code:app --reload
+
+1st deployment testing -- using simple backend py file 
+		we creeate app that app will deployment any where. 
+		
+2nd project -->
+	create a folder in cursor 
+	go to gemini api key -- get the gemini key -- keep it for the project 
+	
+	
